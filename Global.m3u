@@ -9,7 +9,7 @@ http://38.96.178.201/live/NBCHD/index.m3u8
 http://38.96.178.201:80/live/FOXHD/index.m3u8
 #EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" tvg-logo="https://epg.112114.xyz/logo/BBCAMERICA.png" group-title="国际",BBC美洲
 http://38.96.178.201:80/live/BBCAmerica/index.m3u8
-#EXTINF:-1  tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际",ABC新闻
+#EXTINF:-1 tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际",ABC新闻
 http://38.96.178.201:80/live/ABCHD/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://epg.112114.xyz/logo/TNT.png" group-title="国际",TNT
 http://38.96.178.201:80/live/TNTHD/index.m3u8
@@ -23,7 +23,7 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 http://38.96.178.201:80/live/ESPNews/index.m3u8
 #EXTINF:-1 tvg-id="CBS News New York" tvg-name="CBS News New York" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="国际",CBS新闻
 http://38.96.178.201:80/live/CBS/index.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" tvg-logo="Animal Planet" group-title="国际",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" group-title="国际",Animal Planet
 http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://epg.112114.xyz/logo/COMEDY.png" group-title="国际",Comedy Central
 http://38.96.178.201:80/live/ComedyCentral/index.m3u8
@@ -33,24 +33,22 @@ http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 http://38.96.178.201:80/live/Discovery/index.m3u8
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="国际",Disney
 http://38.96.178.201:80/live/Disney/index.m3u8
-#EXTINF:-1 tvg-id="History" tvg-id="History" tvg-logo="https://epg.112114.xyz/logo/history.png" group-title="国际",History
+#EXTINF:-1 tvg-id="History" tvg-logo="https://epg.112114.xyz/logo/history.png" group-title="国际",History
 http://38.96.178.201:80/live/History/index.m3u8
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" group-title="国际",台视新闻
-http://livetv.skycf.eu.org/live.m3u8?c=4
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="国际",中视新闻
-http://livetv.skycf.eu.org/live.m3u8?c=6
-#EXTINF:-1 tvg-id="公视新闻" tvg-name="公视新闻" tvg-logo="https://epg.112114.xyz/logo/公视新闻.png" group-title="国际",公视新闻
-http://livetv.skycf.eu.org/live.m3u8?c=8
-#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://epg.112114.xyz/logo/民视新闻.png" group-title="国际",民视新闻
-http://livetv.skycf.eu.org/live.m3u8?c=11
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.112114.xyz/logo/三立新闻.png" group-title="国际",三立新闻
-、http://livetv.skycf.eu.org/live.m3u8?c=12 
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="国际",TVBS新闻
-http://livetv.skycf.eu.org/live.m3u8?c=5
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="国际",中天新闻
-http://livetv.skycf.eu.org/live.m3u8?c=7
-#EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://epg.112114.xyz/logo/中天亚洲.png" group-title="国际",中天亚洲
-http://livetv.skycf.eu.org/live.m3u8?c=3
+#EXTINF:-1 group-title="国际",Disney XD
+http://38.96.178.201:80/live/DisneyXD/index.m3u8
+#EXTINF:-1 group-title="国际",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="国际",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="国际",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="国际",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="国际",八大戏剧
+http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
+#EXTINF:-1 group-title="国际",东森戏剧
+http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="国际",凤凰中文
 https://0472.org/hls/youzaiSB/fhzw.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="国际",凤凰资讯
